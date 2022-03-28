@@ -1,2 +1,6 @@
 requests==2.27.1
 pytz==2022.1
+tweepy~=4.8.0
+configparser~=5.2.0
+pandas~=1.4.1
+pycountry~=22.3.5
